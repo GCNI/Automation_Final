@@ -21,6 +21,7 @@
     "chromedriver": "^100.0.0",
     "wdio-chromedriver-service": "^7.3.2",
     "wdio-edgedriver-service": "^1.2.0",
+    "wdio-video-reporter": "^3.2.1",
     "webdriverio": "^7.19.3"
   },
   "dependencies": {
